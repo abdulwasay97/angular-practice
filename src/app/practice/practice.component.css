@@ -1,0 +1,16 @@
+nav{
+    border: 2px solid black;
+    background-color: bisque;
+}
+nav ul{
+    /* border: 2px solid black; */
+    /* padding-left: 0%; */
+    text-align: left;
+}
+nav li{
+    list-style: none;
+    /* border: 2px solid black; */
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
