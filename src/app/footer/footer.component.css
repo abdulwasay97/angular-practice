@@ -1,0 +1,25 @@
+.footer {
+    background-color: #f5f5f5;
+    /* padding: 10px; */
+    text-align: center;
+    list-style: none; 
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+    padding: 0px;
+    margin: 0px;
+  }
+.description{
+    text-align: center;
+    /* margin-bottom: 0px; */
+    padding-bottom: 0px;
+  }
+.menu{
+    display: inline-block;
+    text-align: center;
+    color: black;
+   margin-right: 20px;
+   
+
+  }
